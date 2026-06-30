@@ -1,1 +1,1 @@
-# 20-Project-using-Python
+A collection of Python projects
